@@ -6,9 +6,9 @@ Full-Stack Developer
 
 Hello! I am Diego Avila, a Full Stack Web Developer passionate about learning and much more about IT, that is why I am constantly looking for new opportunities to acquire knowledge and grow in my professional career. I am a Backend enthusiast but I can do just as well in the Frontend.
 
-* 🌍  I'm based in Argentina
-* ✉️  You can contact me at [aviladiego2009@gmail.com](mailto:aviladiego2009@gmail.com)
-* 🧠  I'm learning Java and Spring
+* 🌍  I'm based in Argentina
+* ✉️  You can contact me at [aviladiego2009@gmail.com](mailto:aviladiego2009@gmail.com)
+* 🧠  I'm learning Java and Spring
 
 ### Skills
 
@@ -25,7 +25,6 @@ Hello! I am Diego Avila, a Full Stack Web Developer passionate about learning an
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Diego-Avila-Acosta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diego-avila-acosta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
@@ -34,4 +33,4 @@ Hello! I am Diego Avila, a Full Stack Web Developer passionate about learning an
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Diego-Avila-Acosta/videogames-api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Avila-Acosta&repo=videogames-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Diego-Avila-Acosta/videogames-api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Avila-Acosta&repo=videogames-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Diego-Avila-Acosta/yoVoy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Avila-Acosta&repo=yoVoy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
