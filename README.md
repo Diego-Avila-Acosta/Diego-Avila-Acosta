@@ -8,7 +8,7 @@ Hello! I am Diego Avila, i'm passionate about learning and much more about IT, t
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [aviladiego2009@gmail.com](mailto:aviladiego2009@gmail.com)
-* 🧠  I'm learning Rust self-taught and studying "Software Development" in the university "[Instituto Tecnologico Universitario](https://itu.uncuyo.edu.ar)"
+* 🧠  I'm learning Rust self-taught and studying "Software Development" in the university "[Instituto Tecnológico Universitario](https://itu.uncuyo.edu.ar)"
 
 
 
